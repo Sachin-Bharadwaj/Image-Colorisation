@@ -5,7 +5,7 @@ Using Resnet based encoder and transposed convolution based decoder, AutoEncoder
 Left: Gray scale image as inpput, Middle: Ground Truth, Right: Prediction
 
 *Validation set*
-![Alt Text](https://github.com/Sachin-Bharadwaj/Image-Colorisation/blob/master/val_gif.gif)
+![Alt Text](https://github.com/Sachin-Bharadwaj/Image-Colorisation/blob/master/val_gif.gif?style=leftme)
 
 *Training set*
 ![Alt Text](https://github.com/Sachin-Bharadwaj/Image-Colorisation/blob/master/train_gif.gif)
